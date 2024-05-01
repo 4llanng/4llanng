@@ -1,6 +1,5 @@
 ### Olá! Eu sou Allan 👋🏼
 
-- 📚 Atualmente estou cursando Ciências da Computação
 - 🌱 Estou iniciando meus estudos em HTML, CSS e JavaScript
 - 😄 Pronomes: Ele/dele
 
